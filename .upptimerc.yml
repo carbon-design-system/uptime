@@ -5,8 +5,10 @@ repo: uptime
 sites:
   - name: Carbon Design System
     url: https://www.carbondesignsystem.com
-  - name: React Storybook
+  - name: Carbon React Storybook
     url: https://react.carbondesignsystem.com
+  - name: Carbon Charts Storybook
+    url: https://charts.carbondesignsystem.com
 
 status-website:
   baseUrl: /uptime
