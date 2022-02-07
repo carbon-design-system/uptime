@@ -9,6 +9,14 @@ sites:
     url: https://react.carbondesignsystem.com
   - name: Carbon Charts Storybook
     url: https://charts.carbondesignsystem.com
+  - name: Carbon for IBM.com
+    url: https://www.ibm.com/standards/carbon
+  - name: Carbon for IBM.com Web Components Storybook
+    url: https://www.ibm.com/standards/carbon/web-components
+  - name: Carbon for IBM.com React Storybook
+    url: https://www.ibm.com/standards/carbon/react
+  - name: Carbon Web Components Storybook
+    url: https://web-components.carbondesignsystem.com
 
 status-website:
   baseUrl: /uptime
