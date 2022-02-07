@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Carbon Design System
     url: https://www.carbondesignsystem.com
+  - name: React Storybook
+    url: https://react.carbondesignsystem.com
 
 status-website:
   baseUrl: /uptime
