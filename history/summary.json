@@ -4,18 +4,20 @@
     "url": "https://www.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/www.carbondesignsystem.com",
     "slug": "carbon-design-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 368,
-    "timeWeek": 427,
-    "timeMonth": 427,
-    "timeYear": 427,
-    "dailyMinutesDown": {}
+    "time": 1187,
+    "timeDay": 5338,
+    "timeWeek": 1479,
+    "timeMonth": 1187,
+    "timeYear": 1187,
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Carbon React Storybook",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 281,
     "timeDay": 246,
-    "timeWeek": 281,
+    "timeWeek": 276,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 82,
-    "timeWeek": 121,
+    "timeWeek": 116,
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {}
