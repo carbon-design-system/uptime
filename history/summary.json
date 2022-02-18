@@ -4,9 +4,9 @@
     "url": "https://www.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/www.carbondesignsystem.com",
     "slug": "carbon-design-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 1112,
     "timeYear": 1112,
     "dailyMinutesDown": {
+      "2022-02-18": 0,
       "2022-02-14": 26
     }
   },
