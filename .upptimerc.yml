@@ -17,6 +17,8 @@ sites:
     url: https://www.ibm.com/standards/carbon/react
   - name: Carbon Web Components Storybook
     url: https://web-components.carbondesignsystem.com
+  - name: Fake Site Testing
+    url: https://not-a-real-site.carbondesignsystem.com
 
 status-website:
   baseUrl: /uptime
