@@ -17,6 +17,8 @@ sites:
     url: https://www.ibm.com/standards/carbon/react
   - name: Carbon Web Components Storybook
     url: https://web-components.carbondesignsystem.com
+  - name: Carbon Platform
+    url: https://next.carbondesignsystem.com
 
 status-website:
   baseUrl: /uptime
