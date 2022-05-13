@@ -27,9 +27,9 @@
     "url": "https://react.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/react.carbondesignsystem.com",
     "slug": "carbon-react-storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 299,
     "timeMonth": 277,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-13": 0
+    }
   },
   {
     "name": "Carbon Charts Storybook",
