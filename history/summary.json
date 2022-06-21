@@ -28,10 +28,10 @@
     "url": "https://react.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/react.carbondesignsystem.com",
     "slug": "carbon-react-storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 412,
@@ -40,7 +40,7 @@
     "timeMonth": 308,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-06-21": 35
+      "2022-06-21": 37
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://web-components.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/web-components.carbondesignsystem.com",
     "slug": "carbon-web-components-storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 186,
-    "timeWeek": 162,
-    "timeMonth": 181,
+    "timeDay": 156,
+    "timeWeek": 154,
+    "timeMonth": 178,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2022-06-21": 34
+      "2022-06-21": 36
     }
   },
   {
@@ -142,9 +142,9 @@
     "url": "https://next.carbondesignsystem.com",
     "icon": "https://favicons.githubusercontent.com/next.carbondesignsystem.com",
     "slug": "carbon-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "98.07%",
+    "uptimeDay": "98.06%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
