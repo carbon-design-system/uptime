@@ -6,9 +6,9 @@
     "slug": "carbon-design-system",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.87%",
     "time": 1147,
     "timeDay": 257,
@@ -16,7 +16,7 @@
     "timeMonth": 307,
     "timeYear": 1147,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 15,
       "2022-06-29": 52,
       "2022-06-21": 36,
       "2022-03-29": 79,
@@ -32,9 +32,9 @@
     "slug": "carbon-react-storybook",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.95%",
     "time": 382,
     "timeDay": 204,
@@ -42,7 +42,7 @@
     "timeMonth": 275,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 15,
       "2022-06-29": 52,
       "2022-06-21": 35
     }
@@ -54,9 +54,9 @@
     "slug": "carbon-charts-storybook",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.95%",
     "time": 149,
     "timeDay": 145,
@@ -64,7 +64,7 @@
     "timeMonth": 148,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 15,
       "2022-06-29": 52,
       "2022-06-21": 34
     }
@@ -74,28 +74,30 @@
     "url": "https://www.ibm.com/standards/carbon",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 389,
     "timeWeek": 605,
     "timeMonth": 594,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 4
+    }
   },
   {
     "name": "Carbon for IBM.com Web Components Storybook",
     "url": "https://www.ibm.com/standards/carbon/web-components",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com-web-components-storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
@@ -103,16 +105,18 @@
     "timeWeek": 204,
     "timeMonth": 209,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 2
+    }
   },
   {
     "name": "Carbon for IBM.com React Storybook",
     "url": "https://www.ibm.com/standards/carbon/react",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com-react-storybook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +125,9 @@
     "timeWeek": 164,
     "timeMonth": 193,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Carbon Web Components Storybook",
@@ -130,9 +136,9 @@
     "slug": "carbon-web-components-storybook",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.94%",
     "time": 167,
     "timeDay": 134,
@@ -140,7 +146,7 @@
     "timeMonth": 159,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 15,
       "2022-06-29": 52,
       "2022-06-21": 50
     }
@@ -152,9 +158,9 @@
     "slug": "carbon-platform",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "44.41%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "45.44%",
     "uptimeYear": "0.00%",
     "time": 614,
     "timeDay": 283,
@@ -162,7 +168,7 @@
     "timeMonth": 614,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-06-30": 23,
+      "2022-06-30": 15,
       "2022-06-29": 71,
       "2022-06-21": 28,
       "2022-06-11": 269,
