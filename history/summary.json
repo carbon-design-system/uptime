@@ -74,19 +74,19 @@
     "url": "https://www.ibm.com/standards/carbon",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 389,
-    "timeWeek": 605,
-    "timeMonth": 594,
-    "timeYear": 616,
+    "time": 620,
+    "timeDay": 753,
+    "timeWeek": 669,
+    "timeMonth": 610,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2022-06-30": 4
+      "2022-06-30": 8
     }
   },
   {
@@ -94,19 +94,19 @@
     "url": "https://www.ibm.com/standards/carbon/web-components",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com-web-components-storybook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 145,
-    "timeWeek": 204,
-    "timeMonth": 209,
+    "timeDay": 190,
+    "timeWeek": 208,
+    "timeMonth": 210,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-06-30": 2
+      "2022-06-30": 6
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://www.ibm.com/standards/carbon/react",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com-react-storybook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 216,
-    "timeWeek": 164,
-    "timeMonth": 193,
-    "timeYear": 220,
+    "time": 221,
+    "timeDay": 269,
+    "timeWeek": 183,
+    "timeMonth": 197,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-06-30": 0
+      "2022-06-30": 5
     }
   },
   {
@@ -160,7 +160,7 @@
     "uptime": "0.00%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "45.44%",
+    "uptimeMonth": "45.46%",
     "uptimeYear": "0.00%",
     "time": 614,
     "timeDay": 283,
