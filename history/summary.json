@@ -92,19 +92,19 @@
     "url": "https://www.ibm.com/standards/carbon/web-components",
     "icon": "https://favicons.githubusercontent.com/www.ibm.com",
     "slug": "carbon-for-ibm-com-web-components-storybook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 333,
-    "timeWeek": 222,
-    "timeMonth": 214,
-    "timeYear": 224,
+    "time": 387,
+    "timeDay": 12575,
+    "timeWeek": 2955,
+    "timeMonth": 960,
+    "timeYear": 387,
     "dailyMinutesDown": {
-      "2022-07-02": 0
+      "2022-07-02": 5
     }
   },
   {
@@ -156,7 +156,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "61.91%",
+    "uptimeMonth": "61.93%",
     "uptimeYear": "0.00%",
     "time": 578,
     "timeDay": 333,
