@@ -74,9 +74,9 @@
     "url": "https://www.ibm.com/standards/carbon",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibm.com.ico",
     "slug": "carbon-for-ibm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -85,7 +85,9 @@
     "timeWeek": 834,
     "timeMonth": 652,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "Carbon for IBM.com Web Components Storybook",
@@ -151,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/next.carbondesignsystem.com.ico",
     "slug": "carbon-platform",
     "status": "up",
-    "uptime": "71.65%",
+    "uptime": "71.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.65%",
+    "uptimeYear": "71.70%",
     "time": 847,
     "timeDay": 213,
     "timeWeek": 256,
