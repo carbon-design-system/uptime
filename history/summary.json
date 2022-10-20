@@ -74,19 +74,19 @@
     "url": "https://www.ibm.com/standards/carbon",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibm.com.ico",
     "slug": "carbon-for-ibm-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 576,
-    "timeWeek": 834,
-    "timeMonth": 652,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 628,
+    "timeDay": 379,
+    "timeWeek": 753,
+    "timeMonth": 636,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-10-20": 0
+      "2022-10-20": 19
     }
   },
   {
