@@ -216,19 +216,19 @@
     "url": "https://www.ibm.com/design/language",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibm.com.ico",
     "slug": "ibm-design-language",
-    "status": "down",
-    "uptime": "89.92%",
-    "uptimeDay": "89.92%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "89.92%",
-    "time": 1412,
-    "timeDay": 1412,
-    "timeWeek": 1412,
-    "timeMonth": 1412,
-    "timeYear": 1412,
+    "status": "up",
+    "uptime": "89.06%",
+    "uptimeDay": "89.06%",
+    "uptimeWeek": "89.06%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "89.06%",
+    "time": 1275,
+    "timeDay": 1275,
+    "timeWeek": 1275,
+    "timeMonth": 1275,
+    "timeYear": 1275,
     "dailyMinutesDown": {
-      "2022-11-01": 41
+      "2022-11-01": 45
     }
   },
   {
@@ -236,19 +236,19 @@
     "url": "https://www.ibm.com/design",
     "icon": "https://icons.duckduckgo.com/ip3/www.ibm.com.ico",
     "slug": "ibm-com-slash-design",
-    "status": "down",
-    "uptime": "90.66%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "90.66%",
-    "time": 1372,
-    "timeDay": 1372,
-    "timeWeek": 1372,
-    "timeMonth": 1372,
-    "timeYear": 1372,
+    "status": "up",
+    "uptime": "89.79%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "89.79%",
+    "uptimeYear": "89.79%",
+    "time": 1229,
+    "timeDay": 1229,
+    "timeWeek": 1229,
+    "timeMonth": 1229,
+    "timeYear": 1229,
     "dailyMinutesDown": {
-      "2022-11-01": 37
+      "2022-11-01": 41
     }
   }
 ]
