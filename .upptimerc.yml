@@ -19,7 +19,11 @@ sites:
     url: https://web-components.carbondesignsystem.com
   - name: Carbon Platform
     url: https://next.carbondesignsystem.com
-
+  - name: IBM Design Language
+    url: https://www.ibm.com/design/language
+  - name: IBM.com slash design
+    url: https://www.ibm.com/design
+    
 status-website:
   baseUrl: /uptime
   name: Carbon Uptime
