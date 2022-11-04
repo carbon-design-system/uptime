@@ -1,7 +1,7 @@
 url: https://www.ibm.com/design/language
-status: up
-code: 200
-responseTime: 1202
-lastUpdated: 2022-11-04T15:56:15.858Z
+status: down
+code: 502
+responseTime: 10642
+lastUpdated: 2022-11-04T17:20:02.691Z
 startTime: Tue Nov 01 2022 12:51:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
